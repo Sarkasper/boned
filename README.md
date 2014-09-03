@@ -15,5 +15,5 @@ So I decided to create my own based on them, the simplicity and modern
 approach of HTML5 Boilerplate[1] and the beautiful responsive layout of 
 Skeleton[0].  
 
-[0] www.getskeleton.com
+[0] www.getskeleton.com  
 [1] www.html5boilerplate.com
