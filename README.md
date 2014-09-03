@@ -12,7 +12,7 @@ grid, but also provides very basic CSS for typography, buttons, forms and media 
 One of my favourite boilerplates to work with is [Skeleton](www.getskeleton.com) but 
 it seems outdated. The last commit was in 2012, it still uses [Reset CSS](http://meyerweb.com/eric/tools/css/reset/) 
 instead of [Normalize.css](http://necolas.github.io/normalize.css/) 
-[^1](http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css) 
+<sup>[1](http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css)</sup> 
 and some other older compatibility practises.  
 After some research it seems that [HTML5 Boilerplate](www.html5boilerplate.com) is 
 more what I am looking for but it is missing some of the responsive layout features 
