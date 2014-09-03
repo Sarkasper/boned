@@ -1,0 +1,14 @@
+# humanstxt.org/
+
+/* TEAM */
+    <name> -- <location> -- <role> -- <twitter>
+
+/* THANKS */
+    <name>
+
+/* SITE */                   
+    Last update: 2014/09/04
+    Language: English
+    Standards: HTML5, CSS3
+    Components: Boned, Normalize.css, Modernizr
+    Software: Git, IDE
